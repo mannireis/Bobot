@@ -4510,15 +4510,15 @@
 			(uuid "814a9cdc-7929-464e-80bc-e69aa7213086")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.wrl"
+		(model "${KIPRJMOD}/../models/Trim_Potentiometer_502.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 2.5 -2.8 6)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -11860,15 +11860,15 @@
 			(uuid "88a3a73a-26df-42ee-9eb5-54c8d93d6bbf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.wrl"
+		(model "${KIPRJMOD}/../models/Trim_Potentiometer_502.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 2.5 -2.8 6)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -13930,7 +13930,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Multicomp_BC-2001_1x2032.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3034_1x20mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13938,7 +13938,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -22735,7 +22735,7 @@
 		(uuid "52a5ffdb-a028-4b7d-a03a-29021fdc85c9")
 	)
 	(gr_text "VCC"
-		(at 23.4 134 0)
+		(at 20.6 134.95 90)
 		(layer "F.SilkS")
 		(uuid "425dd395-0ef4-45b6-821f-ee475f199abe")
 		(effects
@@ -22746,8 +22746,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Threshold"
-		(at 22.93 138.6 0)
+	(gr_text "Thresh"
+		(at 20.475 140.825 90)
 		(layer "F.SilkS")
 		(uuid "50c6baa2-a9e2-40d5-a67f-521a98e00092")
 		(effects
@@ -22759,7 +22759,7 @@
 		)
 	)
 	(gr_text "Trigger"
-		(at 23.4 141.8 0)
+		(at 23.925 144 90)
 		(layer "F.SilkS")
 		(uuid "6b70ded6-50d9-4f3f-be8a-be9d7d367228")
 		(effects
@@ -22770,8 +22770,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Discharge"
-		(at 23.4 136.5 0)
+	(gr_text "Disch"
+		(at 23.925 137.75 90)
 		(layer "F.SilkS")
 		(uuid "81821247-1c30-4971-94a8-08f7b7714684")
 		(effects
@@ -22783,7 +22783,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 23.3 131.5 0)
+		(at 23.975 132.45 90)
 		(layer "F.SilkS")
 		(uuid "dfbc8cae-a701-4b8e-9172-9cb0af8a9dfc")
 		(effects
@@ -22844,7 +22844,7 @@
 		)
 	)
 	(gr_text "Source here!"
-		(at 97.365 168.335 0)
+		(at 97.075 168.325 0)
 		(layer "B.SilkS")
 		(uuid "83eac6d1-0699-4e8f-b8ad-3f7b37fd0dd4")
 		(effects
