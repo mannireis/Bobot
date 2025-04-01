@@ -10,6 +10,8 @@ Features:
 - Low power design! 3V operating voltage
 - On board square wave generator
 - Selectable features through solder brides
+- A Schematic on the back side!
+- Super cute cats on the front side - Kudos to @acornitum
 
 BOM:
 - 1 	Battery holder
