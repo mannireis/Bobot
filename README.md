@@ -29,4 +29,6 @@ Ever wondered how a 555 timer IC worked? Here you have it! A 555 IC, made entire
 - 2 	Potentiometer
 - 1 	Push Button
 
+Made by `@Cyao` on slack :D
+
 Design your own PCB at http://solder.hackclub.com/!
