@@ -17,6 +17,9 @@ Ever wondered how a 555 timer IC worked? Here you have it! A 555 IC, made entire
 - A Schematic on the back side!
 - Super cute cats on the front side - Kudos to @acornitum
 
+## How to build
+Just order the PCB & components, open up the KiCAD file and build it accordingly.
+
 ## BOM
 - 1 	Battery holder
 - 1 	10uF Capacitor
@@ -31,4 +34,4 @@ Ever wondered how a 555 timer IC worked? Here you have it! A 555 IC, made entire
 
 Made by `@Cyao` on slack :D
 
-Design your own PCB at http://solder.hackclub.com/!
+Made as a part of http://solder.hackclub.com/!
