@@ -5,8 +5,8 @@ Ever wondered how a 555 timer IC worked? Here you have it! A 555 IC, made entire
 ## Schematic
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/90c4802510960db656f2f006a835b0fdcec87828_image.png) 
 ## PCB
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6b345181e23e9d87a9a7d98dd0a513e8f2d67ab5_image.png)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6ff9c0907ac5251015ab55751c9131639dc6a709_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a878eebb31091892b1d328c85315e392ad870fda_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/90c4802510960db656f2f006a835b0fdcec87828_image.png)
 
 
 ## Features
